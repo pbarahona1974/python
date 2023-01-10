@@ -1,0 +1,1 @@
+flask --app hola --debug run
